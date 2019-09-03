@@ -2,7 +2,7 @@
 
 ## Description
 
-This image update your Cloudflare
+This image updates a Cloudflare DNS Record with your actual IP address
 
 ## Usage
 
